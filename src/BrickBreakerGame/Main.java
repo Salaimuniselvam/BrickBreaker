@@ -12,7 +12,7 @@ public class main {
 		obj.setTitle("Brick Breaker");
 		obj.setResizable(false);
 		obj.setVisible(true);
-		obj.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		obj.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); 
 		
 		
 
